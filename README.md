@@ -10,6 +10,11 @@
 
 All parts are printed in ABS with 5 top/bottom layers and 4 perimeters for maximum stability.
 
+Additional STLs:
+Printhead: https://www.thingiverse.com/thing:3453289
+Fanduct: https://www.thingiverse.com/thing:2121279 (Mistral_V2.1_Leo_N)
+
+
 # Printer
 ![image](https://user-images.githubusercontent.com/5196016/203133693-2c2de5cf-08fe-4de3-bae7-5102556025f6.png)
 
