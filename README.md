@@ -2,17 +2,17 @@
 ![image](https://user-images.githubusercontent.com/5196016/203132799-a808b193-344c-4a58-a61c-c594990bc540.png)
 
 # Extrusions
-1x 140mm
-1x 220mm
-2x 440mm
-2x 400mm
-4x 420mm
+* 1x 140mm
+* 1x 220mm
+* 2x 440mm
+* 2x 400mm
+* 4x 420mm
 
 All parts are printed in ABS with 5 top/bottom layers and 4 perimeters for maximum stability.
 
 Additional STLs:
-Printhead: https://www.thingiverse.com/thing:3453289
-Fanduct: https://www.thingiverse.com/thing:2121279 (Mistral_V2.1_Leo_N)
+* Printhead: https://www.thingiverse.com/thing:3453289
+* Fanduct: https://www.thingiverse.com/thing:2121279 (Mistral_V2.1_Leo_N)
 
 
 # Printer
