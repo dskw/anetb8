@@ -18,6 +18,7 @@
 * deleyCON 1x CAT6a MINI Keystone Jack Modul
 * selfmade short 90° usb cables (Pi -> MCU, Pi -> USB Backport)
 * selfmade short 90° LAN cable (Pi -> deleyCON)
+* 10x15mm drag chain 1 meter
 
 All parts are printed in ABS with 5 top/bottom layers and 4 perimeters for maximum stability. (Voron settings)
 
