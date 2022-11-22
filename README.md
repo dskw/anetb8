@@ -19,6 +19,8 @@
 * selfmade short 90° usb cables (Pi -> MCU, Pi -> USB Backport)
 * selfmade short 90° LAN cable (Pi -> deleyCON)
 * 10x15mm drag chain 1 meter
+* E3D V6 Clone
+* BMG dual gear extruder
 
 All parts are printed in ABS with 5 top/bottom layers and 4 perimeters for maximum stability. (Voron settings)
 
