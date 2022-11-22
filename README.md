@@ -13,6 +13,7 @@
 * Buwei 3.3V 1 Channel Relais
 * 12V 30A PSU (removed the top plate that holds the fan)
 * Noctua NF-A6x25 (60mm)
+* RepRapDiscount Full Graphic Smart Controller
 * Raspberry Pi 3 B
 * deleyCON 1x CAT6a MINI Keystone Jack Modul
 * selfmade short 90° usb cables (Pi -> MCU, Pi -> USB Backport)
